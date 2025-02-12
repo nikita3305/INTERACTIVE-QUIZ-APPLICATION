@@ -17,3 +17,7 @@
 
 # OUTPUT PICTURES
 
+![Image](https://github.com/user-attachments/assets/66d829f3-5771-4547-9925-a28f50f3cb01)
+![Image](https://github.com/user-attachments/assets/4663109f-eaa0-45c7-a93c-3b3b2bd5fdb2)
+![Image](https://github.com/user-attachments/assets/b703f74d-e80d-42a0-978d-2a89f936ed37)
+![Image](https://github.com/user-attachments/assets/f192357c-c13a-4cee-b8ae-65ecf90680c2)
